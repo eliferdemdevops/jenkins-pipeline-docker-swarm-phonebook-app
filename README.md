@@ -1,4 +1,4 @@
-# Project- 03: Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL
+# Project: Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL
 
 ## Description
 
